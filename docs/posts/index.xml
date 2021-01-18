@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Blog</title>
+    <title>Posts on TongH</title>
     <link>https://dhu-th.github.io/hugo-github-pages/posts/</link>
-    <description>Recent content in Posts on Hugo Blog</description>
+    <description>Recent content in Posts on TongH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jan 2021 11:59:21 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 12:46:20 +0800</lastBuildDate>
     
 	<atom:link href="https://dhu-th.github.io/hugo-github-pages/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>博客教程</title>
+      <link>https://dhu-th.github.io/hugo-github-pages/posts/%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Mon, 18 Jan 2021 12:46:20 +0800</pubDate>
+      
+      <guid>https://dhu-th.github.io/hugo-github-pages/posts/%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</guid>
+      <description>创建新文章 hugo new posts/name.md 打包网站到 /docs文件夹 hugo -d docs </description>
+    </item>
     
     <item>
       <title>My First Post</title>

@@ -1,4 +1,4 @@
 baseURL = "https://dhu-th.github.io/hugo-github-pages/"
 languageCode = "en-us"
-title = "Hugo Blog"
-theme = "ananke"
+title = "TongH"
+theme = "maupassant"
